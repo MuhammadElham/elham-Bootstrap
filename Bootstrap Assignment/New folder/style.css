@@ -1,0 +1,49 @@
+ @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+ /* Other styles */
+
+ .me-5 span {
+     color: black;
+ }
+.cool .me-4 i{
+    color: black; 
+}
+
+/* Other styles */
+
+.salam .container .row .mt-3 a {
+    color: white;
+}
+
+
+
+* {
+   
+    font-family: Raleway;
+}
+.text-dark {
+    --mdb-text-opacity: 1;
+    color: white;
+}
+
+    body {
+        color: white;
+    }
+
+    a {
+        color: white;
+    }
+    p {
+        color: white;
+    }
+
+    a:hover {
+        color: #12CAD6; /* Change the hover color as needed */
+    }
+
+    /* Add any other styling rules you may need */
+
+
+
+
+
